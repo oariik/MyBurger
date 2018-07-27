@@ -1,0 +1,40 @@
+.NavigationItem {
+    margin: 10px  0;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+}
+
+.NavigationItem a{
+    color: brown;
+     text-decoration: none;
+     box-sizing: border-box;
+     width: 100%;
+     display: block;
+
+}
+
+
+
+.NavigationItem a: hover ,
+.NavigationItem a: active,
+.NavigationItem a: active 
+            {
+                color:blue;
+            }
+            
+
+@media (min-width: 500px){
+   .NavigationItem {  margin: 10px  0;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+} }   
+
+.NavigationItem a{
+    color: brown;
+     text-decoration: none;
+     box-sizing: border-box;
+     width: 100%;
+     display: block;
+}
